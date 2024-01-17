@@ -1,4 +1,4 @@
-# Agni
+# Agni Robot
 
 * Agni is a robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
 * This is developed for the semester 3 project under EN2533: Robot Design and Competition.
@@ -31,4 +31,9 @@
 
 ## Sensors
 
+![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e7ea8e2a-3c1e-45ae-9f9a-de4333612ad0)
+
+## Team
+
+![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e1591200-e2f0-4a04-b40a-e4116868b24a)
 
