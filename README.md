@@ -7,11 +7,11 @@
 
 ## Functionalities
 
-🛤️ Precise line following
-🚧 Wall avoidance during navigation
-🏞️ Navigating ramps (20 degrees)
-🤖 Object interaction with a mechanical arm
-🎵 Sound sensitivity 
-🌈 Colour detection
-🌀 Maze-traversing capabilities
-🛑 Obstacle avoidance, including guard robots
+🛤️ Precise line following  
+🚧 Wall avoidance during navigation  
+🏞️ Navigating ramps (20 degrees)  
+🤖 Object interaction with a mechanical arm  
+🎵 Sound sensitivity   
+🌈 Colour detection  
+🌀 Maze-traversing capabilities  
+🛑 Obstacle avoidance, including guard robots  
