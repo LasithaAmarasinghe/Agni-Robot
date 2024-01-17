@@ -15,3 +15,16 @@
 🌈 Colour detection  
 🌀 Maze-traversing capabilities  
 🛑 Obstacle avoidance, including guard robots  
+
+## Hardware Specifications
+
+* Arduino Mega 2560
+* Sensors
+* Buck Converter
+* 2 Li-ion Batteries
+* 2 N20 50 rpm Motors
+
+## Software Specifications
+
+* Arduino IDE
+* Solid Works
