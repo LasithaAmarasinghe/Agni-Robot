@@ -37,4 +37,4 @@
 
 ![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e1591200-e2f0-4a04-b40a-e4116868b24a)
 
-## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Agni%20Final%20Report.pdf)
+## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Agni%20final%20report.pdf)
