@@ -43,7 +43,7 @@
 ## Hardware Specifications
 
 * [Arduino Mega 2560](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Arduino%20Mega%202560%20Board.pdf)
-* Sensors
+* [Sensors](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/AGNI%20sensors%20.pdf)
 * Buck Converter
 * 2 Li-ion Batteries
 * 2 N20 50 rpm Motors
