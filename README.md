@@ -2,7 +2,7 @@
 
 * Agni is a robot powered by [Arduino Mega 2560](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Arduino%20Mega%202560%20Board.pdf), capable of doing various tasks in robotics competitions.
 * This is developed for the semester 3 project under EN2533: Robot Design and Competition.
-* The robot had to overcome several [tasks](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Robotics_Task.pdf) in this competition, which was held in an arena prepared in the ENTC building. 
+* The robot had to overcome several [tasks](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Robotics_Task.pdf) in this competition, which was held in an [arena](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Competition%20Arena.png) prepared in the ENTC building. 
 
 ![IMG-20231209-WA00](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/81d65c23-b77b-41e4-ac23-0e065fe6b50b)
 
