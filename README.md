@@ -16,6 +16,29 @@
 🌀 Maze-traversing capabilities  
 🛑 Obstacle avoidance, including guard robots  
 
+## Game Plan
+
+### Task 1: Line Following
+* For the initial task of the competition, the robot needs to follow the white line on the black background. To detect the line with better accuracy we used an IR array with 8 IR modules. For smoothing the movement of the robot we added a PID controller. The PID control processes the IR sensor data and makes real-time adjustments to the robot's motor output, ensuring that it stays on the line with precision.
+
+### Task 2: Wall Following
+* In this task, the white line is disturbed by walls at some points and the robot needs to follow the white line, avoiding the walls. To detect walls we used ultrasonic sensors. The robot manages to keep a constant distance from the walls in disturbed areas and comes back to the white line after that according to the algorithm.
+
+### Task 3: Ramp Navigation
+* To go through the ramp we focused on what needed to be done by the mechanical design side. We calculated the height that the chassis needs to be from the ground and where the tyres should be situated relative to the chassis. The PID controller is adjusted for this task to slow down the robot when it comes near the ramp, so the robot can smoothly enter the ramp.
+
+### Task 4: Box Manipulation
+* To tackle the box manipulation challenge, we added a robotic arm with stepper motors equipped with joints for precise movements. We used ultrasonic sensors to detect the presence of the box. After the box is detected, the arm grabs the box according to the code.
+
+### Task 5: Coloured Line Following
+* For this task, the robot needs to identify the colour of the box and follow the path with the same colour as the box. First, the box is picked up by the arm, and then using the colour sensor, the box's colour is detected. According to the colour of the box, the robot follows the line according to the right-hand rule to reach the destination.
+
+### Task 6: Sound Detection
+* In this part, there is a sound-emitting tower. The robot should freeze when a sound is emitted from the tower and should move only when it's silent. With the sound sensor, the robot detects the sound and moves according to the algorithm. 
+
+### Task 7: Guard Bot Avoidance
+* In the final task, the robot encounters a guard robot blocking its path. Ultrasound sensors are strategically positioned on the front sides of the robot to detect the movements of the guard bot. When the bot moves away from our destination, our robot successfully evades the guard robot and reaches the final destination.
+
 ## Hardware Specifications
 
 * Arduino Mega 2560
