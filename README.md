@@ -33,6 +33,10 @@
 
 ![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e7ea8e2a-3c1e-45ae-9f9a-de4333612ad0)
 
+## Chassie Design
+
+![bottom chassie](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/6b88fad9-39b2-48c4-ba49-6703d3684168)
+
 ## Team
 
 ![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e1591200-e2f0-4a04-b40a-e4116868b24a)
