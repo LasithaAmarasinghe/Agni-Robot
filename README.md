@@ -53,6 +53,9 @@
 * Arduino IDE
 * Solid Works
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
+![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
+
 ## Sensors
 
 ![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e7ea8e2a-3c1e-45ae-9f9a-de4333612ad0)
