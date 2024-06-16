@@ -69,4 +69,8 @@
 
 ![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e1591200-e2f0-4a04-b40a-e4116868b24a)
 
+## License
+ 
+ * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
+
 ## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Agni-Robot/blob/main/Agni%20final%20report.pdf)
