@@ -47,6 +47,7 @@
 * Buck Converter
 * 2 Li-ion Batteries
 * 2 N20 50 rpm Motors
+* Wheels
 
 ## Software Specifications
 
