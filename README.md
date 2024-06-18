@@ -67,7 +67,9 @@
 
 ## Team
 
-![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/e1591200-e2f0-4a04-b40a-e4116868b24a)
+![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/28c360bd-b7ae-4253-b2ec-855202097034)
+![image](https://github.com/LasithaAmarasinghe/Agni-Robot/assets/106037441/b11320d2-f724-4cf0-9a87-100cba223529)
+
 
 ## License
  
